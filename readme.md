@@ -3,7 +3,7 @@ NAME
 Twitter Bot
 
 ADDRESS
-@claudio_Erin [Twitter Bot](https://twitter.com/claudio_erin)
+@claudio_Erin [Twitter Bot] (https://twitter.com/claudio_erin)
 
 DESCRIPTION
 
