@@ -3,9 +3,11 @@ NAME
 Twitter Bot
 
 ADDRESS
-@claudio_Erin [Twitter Bot] (https://twitter.com/claudio_erin)
+
+(https://twitter.com/claudio_erin)
 
 DESCRIPTION
+@claudio_Erin
 
 This is one of my first experments with creating a Bot using the Twitter API
 I had to make adjustments to the bots adding two Requirments for the bot to Retweet any message
