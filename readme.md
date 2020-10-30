@@ -1,5 +1,5 @@
 This is one of my first experments with creating a Bot using the Twitter API
-The project is active under the Twitter handle  @claudio_Erin [a link](https://twitter.com/claudio_erin).
+The project is active under the Twitter handle  @claudio_Erin [Twitter Bot](https://twitter.com/claudio_erin).
 
 I had to make adjustments to the bots adding two Requirments for the bot to Retweet any message
 * Only allowing the bot to Retweet people the bot follows
